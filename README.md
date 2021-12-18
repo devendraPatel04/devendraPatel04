@@ -1,8 +1,7 @@
 ### Hi there 👋
 ## This is Devendra Patel
 
-- 🔭 I’m currently studying at Shri Vaishnav Vidhyapeeth Institute of Information and Technology ...
-- 🌱 I’m currently learning Python ...
+- 🔭 I’m currently pursuing B.tech at Shri Vaishnav Vidhyapeeth Institute of Information and Technology ...
 - Intrests:
   - Java
   - Python
