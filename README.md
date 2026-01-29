@@ -1,15 +1,8 @@
 ### Hi there 👋
 ## This is Devendra Patel
 
-- 🔭 I’m currently pursuing B.tech at Shri Vaishnav Vidhyapeeth Institute of Information and Technology ...
-- Intrests:
-  - Java
-  - Python
-  - Red hat
-  - Gaming
-  - Music
-  - Travelling
-  - Sleeping
+Platform Engineer
+
 - 📫 How to reach me: ...
   - devendrapatel926@gmail.com
   - https://github.com/devendraPatel04/
